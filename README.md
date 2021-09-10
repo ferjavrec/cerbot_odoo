@@ -1,4 +1,4 @@
-# cerbot_odoo
+# Certificados de seguridad para Odoo con Certbot y Nginx
 
     apt-get install nginx
 
